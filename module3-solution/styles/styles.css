@@ -1,3 +1,5 @@
+/* Navigation */
+
 .navbar-brand {
     height: 60px;
     padding-top: 10px;;
@@ -51,17 +53,4 @@ div#main-content > div > div > div > a {
 
 h3 {
   margin: 0px 0px 2px;
-}
-
-.shit:before, .shit:after {
-  display: table;
-  content: " ";
-}
-
-.shit:after {
-  clear: both;
-}
-
-.shit {
-  display: block !important;
 }
